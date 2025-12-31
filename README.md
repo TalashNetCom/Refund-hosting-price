@@ -3,6 +3,11 @@
 
 این برنامه با استفاده از Windows Forms و زبان #C طراحی شده تا مبلغ بازگشت وجه سرویس‌های هاستینگ را بر اساس مدت‌زمان استفاده‌شده محاسبه کند. در این محاسبه، 10٪ مالیات و 20٪ کارمزد از مبلغ اولیه کسر می‌شود.
 
+<p align="center">
+  <picture>
+    <img alt="Refund whmcs price calculator" src="./refund-calculator.jpg">
+  </picture>
+</p>
 ---
 
 ## ✨ ویژگی‌ها
